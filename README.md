@@ -10,43 +10,43 @@ The purpose of this challenge was to use NYC CitiBike bikesharing data to determ
 
 ## Results
 
-Trip Duration vs Number of Bikes:
+### Trip Duration vs Number of Bikes:
 
-![bikes_by_hours.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/bikes_by_hours.PNG)
+![bikes_by_hours.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/bikes_by_hours.PNG###)
 
 Most bikes were used for less than 1 hour.
 
-Trip Duration by Gender:
+### Trip Duration by Gender:
 
 ![bikes_by_gender.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/bikes_by_gender.PNG)
 
 Men utilized bikes more than women.
 
-Trips by Weekday:
+### Trips by Weekday:
 
 ![weekday_heatmap.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/weekday_heatmap.PNG)
 
 Rush hour seemed to show the highest utilization.
 
-Weekday Trips by Gender:
+### Weekday Trips by Gender:
 
 ![gender_heatmap.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/gender_heatmap.PNG)
 
 Gender did not have an effect on when bikes were used.
 
-Customer Type:
+### Customer Type:
 
 ![customer_type.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/customer_type.PNG)
 
 Subscriptions were more popular than single use.
 
-Customer Type Pie Chart:
+### Customer Type Pie Chart:
 
 ![customer_type_pie.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/customer_type_pie.PNG)
 
 Another view of customer type.
 
-Bike Utilization:
+### Bike Utilization:
 
 ![bike_utilization.PNG](https://github.com/mcwatts88/Bikesharing/blob/main/Resources/bike_utilization.PNG)
 
